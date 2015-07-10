@@ -23,4 +23,5 @@ if __name__ == "__main__":
   test_classification()
   test_sum_angles()
   test_right_angle()
+  test_equilateral()
   print("Ending test")
