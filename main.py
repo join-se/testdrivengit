@@ -1,16 +1,16 @@
 def test_classification():
-  classification(45,90,180) #This is not a triangle
+  Classification(45,90,180) #This is not a triangle
 
 def test_sum_angles():
-  classification(70,60,50)
+  Classification(70,60,50)
 
 def test_right_angle():
-  classification(90,45,45)
+  Classification(90,45,45)
 
 def test_equilateral():
-  classification(60,60,60)
+  Classification(60,60,60)
 
-def classification(a,b,c):
+def Classification(a,b,c):
   if a+b+c == 180:
     print("This IS a triangle")
 
