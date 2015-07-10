@@ -5,6 +5,6 @@ def classification(a,b,c):
   print("This is not a triangle")
         
 if __name__ == "__main__":
-  print("Starting test");
-  test_classification();
-  print("Ending test");
+  print("Starting test")
+  test_classification()
+  print("Ending test")
