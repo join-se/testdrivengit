@@ -1,7 +1,7 @@
 def test_classification():
   classification(45,90,180) #This is not a triangle
   
-def classification():
+def classification(a,b,c):
   print("This is not a triangle")
   return false
         
