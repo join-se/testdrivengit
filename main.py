@@ -7,6 +7,9 @@ def test_sum_angles():
 def test_right_angle():
   classification(90,45,45)
 
+def test_acute():
+  classification(80,60,40)
+
 def test_equilateral():
   classification(60,60,60)
   
