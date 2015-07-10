@@ -1,8 +1,8 @@
 def test_classification():
-  classification(45,90,180) //This is not a triangle
+  classification(45,90,180) #This is not a triangle
   
 def classification():
-  print("This is not a triangle");
+  print("This is not a triangle")
   return false
         
 if __name__ == "__main__":
