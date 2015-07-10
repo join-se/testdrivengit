@@ -32,4 +32,4 @@ if __name__ == "__main__":
     test_right_angle()
     test_acute()
     test_equilateral()
-    print("Ending test")
+    print("Ending test!!!")
