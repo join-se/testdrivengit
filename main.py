@@ -3,7 +3,6 @@ def test_classification():
   
 def classification(a,b,c):
   print("This is not a triangle")
-  return false
         
 if __name__ == "__main__":
   print("Starting test");
